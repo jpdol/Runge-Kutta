@@ -1,5 +1,5 @@
 # Runge-Kutta
-## Implementação do Método de Runge-Kutta de Ordem 4 para solução numérica de Equações Diferenciais Ordinárias
+## Implementação do Método de Runge-Kutta de Ordem 4 para solução numérica de Equações Diferenciais Ordinárias de 1a Ordem
 
 
 Seja um Problema do Valor Inicial da seguinte forma:
