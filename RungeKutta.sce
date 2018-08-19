@@ -35,10 +35,6 @@ func = input(" y`=", "string");
 func = 'z='+ func;
 deff('z=f(x,y)', func);
 
-mprintf("Informe o valor de h:")
-entrada=input("","string");
-h=msscanf(entrada,"%lg");
-
 mprintf("Informe o valor de Xo:");
 entrada=input("","string");
 x=msscanf(entrada,"%lg");
@@ -47,7 +43,11 @@ mprintf("Informe o valor de Yo:");
 entrada=input("","string");
 y=msscanf(entrada,"%lg");
 
-mprintf("Informe a abscissas cuja ordenada se deseja saber");
+mprintf("Informe o valor de h:")
+entrada=input("","string");
+h=msscanf(entrada,"%lg");
+
+mprintf("Informe a abscissa cuja ordenada se deseja saber");
 entrada=input("","string");
 xn=msscanf(entrada,"%lg");
 
